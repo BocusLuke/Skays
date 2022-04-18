@@ -1,4 +1,4 @@
-getgenv().ServerHopTime = 10 --[[Set how much time before next server hop]]--
+getgenv().ServerHopTime = 1111111111111111111111111111111111111111111111111111111111111111110 --[[Set how much time before next server hop]]--
 getgenv().ServerHop = false --[[if set to false then no Server Hop | if set to true then Server hop :D]]
 getgenv().Notifications = false --[[if set to false then no Notification | if set to true then Notification :D]]
 getgenv().TimeTPEachWorld = 3 --[[Set how much time before next World Shift]]--
